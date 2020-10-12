@@ -18,7 +18,7 @@ body {
 }
 
 .wrapper {
-  padding-top: 30px;
+  /*padding-top: 30px;*/
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -42,6 +42,15 @@ header {
   padding: 30px 40px;
 }
 
+.card-header {
+  background-color: white;
+  border-bottom: none;
+  padding-top: 0;
+  padding-right: 1.25rem;
+  padding-bottom: 0;
+  padding-left: 1.25rem;
+}
+
 .card-header::after {
   content: " ";
   display: block;
@@ -52,10 +61,16 @@ header {
 
 .card-body {
   min-height: 100px;
+  padding-top: 0;
+  padding-right: 1.25rem;
+  padding-bottom: 0;
+  padding-left: 1.25rem;
 }
 
 .card-footer {
+  background-color: white;
   text-align: center;
+  border-top: none;
 }
 
 .card-footer::before {
