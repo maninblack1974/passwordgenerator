@@ -47,7 +47,7 @@ function generatePassword() {
 }
 
 // Collect user data as to how many characters and what type of characters they wish to use to create passwords
-// After all is selected print out the passwords tpo the the password field
+// After all is selected send the parameters needed to create the password
 function passwordParameters() {
   var charType = 0;                             
   var upper, lower, numeric, special = false;   
