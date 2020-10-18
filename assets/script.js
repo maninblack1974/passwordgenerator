@@ -46,7 +46,7 @@ function generatePassword() {
   return (passString);             
 }
 
-// Collect user data as to how many characters and what type opf characters they wish to use to create passwords
+// Collect user data as to how many characters and what type of characters they wish to use to create passwords
 // After all is selected print out the passwords tpo the the password field
 function passwordParameters() {
   var charType = 0;                             
