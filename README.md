@@ -6,7 +6,7 @@ This repository was created to allow a user to create a password from 8 to 128 c
 
 ## Password Generator Homepage
 
-![Uploading Screen Shot 2020-10-18 at 12.09.08 AM.png…]()
+<img width="977" alt="Screen Shot 2020-10-18 at 12 12 09 AM" src="https://user-images.githubusercontent.com/25594179/96361003-cfc87a00-10d6-11eb-80e6-ac2c7462dde3.png">
 
 ## License
 
